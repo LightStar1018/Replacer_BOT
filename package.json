@@ -1,0 +1,22 @@
+{
+  "name": "replacer_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowBlaBla/Replacer_BOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowBlaBla/Replacer_BOT/issues"
+  },
+  "homepage": "https://github.com/wowBlaBla/Replacer_BOT#readme"
+}

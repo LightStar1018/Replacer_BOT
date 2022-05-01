@@ -1,0 +1,11 @@
+{
+    "account": {
+        "public": "0x",
+        "private": ""
+    },
+    "toAddr": "0x",
+    "rpc": {
+        "https": "https://eth-ropsten.alchemyapi.io/v2/T7-yC4GYLEGxKaYX4ESi8KFVRt-Sn4Kv",
+        "wss": "wss://eth-ropsten.alchemyapi.io/v2/T7-yC4GYLEGxKaYX4ESi8KFVRt-Sn4Kv"
+    }
+}
