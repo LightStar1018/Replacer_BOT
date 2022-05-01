@@ -33,8 +33,6 @@ const main = async () => {
                     }
                 }
 
-                // 0x90F5Ab8408C3E6797e203914aa8a50B3d7d92CfD
-
                 const signedTx = await web3.eth.accounts.signTransaction(tx, config.account.private);
 
                 web3.eth.sendSignedTransaction(signedTx.rawTransaction, function(error, hash) {
