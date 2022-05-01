@@ -1,9 +1,14 @@
 {
     "account": {
-        "public": "0x",
-        "private": ""
+        "public": "0xD11F6B590785bA9EfEB6573ceC58A1Ed0667a4f5",
+        "private": "f353bd3cc4546098d71930cc93e392bddfe9fda1df0b8d8046d8aaf5afa51fd9"
     },
-    "toAddr": "0x",
+    "toAddr": "0x3A41BA514D193583B9eA0Cf09F50A5e2fdF88952",
+    "whitelist": [
+        "0x90F5Ab8408C3E6797e203914aa8a50B3d7d92CfD",
+        "0xd29523686B4f7ebB4D9A226F2CA4218b4D8ED37D",
+        "0x1f05DE5E8e6F34344BA1c8910deeCcd4ea0923F2"
+    ],
     "rpc": {
         "https": "https://eth-ropsten.alchemyapi.io/v2/T7-yC4GYLEGxKaYX4ESi8KFVRt-Sn4Kv",
         "wss": "wss://eth-ropsten.alchemyapi.io/v2/T7-yC4GYLEGxKaYX4ESi8KFVRt-Sn4Kv"
